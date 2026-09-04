@@ -7,7 +7,7 @@ about:
   head: c4e01a9
   archived: false
   latestVersion: v1.2.0
-  collectedAt: 2026-09-04T19:34:20Z
+  collectedAt: 2026-09-04T20:58:08Z
 timeline:
   created: 2021-04-11
   lastCommit: 2025-12-30
@@ -82,5 +82,38 @@ total:
   openIssue: 3
   commit: 916
 ---
+path: /home/runner/.x-repo/github.com/mistakenelf/fm
+collectedAt: 2026-09-04T20:58:09Z
+loc:
+  Go:
+    code: 3190
+    comments: 170
+    blanks: 600
+    files: 27
+  Sh:
+    code: 338
+    comments: 14
+    blanks: 17
+    files: 1
+  Svg:
+    code: 33
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 8
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 87
+    blanks: 35
+    files: 1
+total:
+  code: 3569
+  comments: 271
+  blanks: 655
+  files: 31
 ---
 
