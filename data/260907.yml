@@ -5,13 +5,13 @@ about:
   head: c4e01a9
   archived: false
   latestVersion: "v1.2.0"
-  collectedAt: 2026-09-07T05:54:40Z
+  collectedAt: 2026-09-07T18:35:40Z
 timeline:
   created: 2021-04-11
   lastCommit: 2025-12-30
   lastRelease: 2025-12-23
 popularity:
-  star: 635
+  star: 634
   watcher: 4
   fork: 28
   release: 60
@@ -81,7 +81,7 @@ total:
   commit: 916
 ---
 path: /home/runner/.x-repo/github.com/mistakenelf/fm
-collectedAt: 2026-09-07T05:54:42Z
+collectedAt: 2026-09-07T18:35:41Z
 loc:
   Go:
     code: 3190
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:54:44+00:00
+  collectedAt: 2026-09-07T18:35:42+00:00
   platform:
     darwin/arm64:
       name:  null
