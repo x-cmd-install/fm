@@ -46,20 +46,12 @@ Total: **3,569** lines of code across **31** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 1 | 0 | 0 | 1 | 0 | 11 |
-| last720d | 2024-11-15 | 1 | 2 | 0 | 4 | 0 | 17 |
-
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/fm). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0-unstable-2024-01-03` | 🪦 legacy |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 1 | 0 | 0 | 1 | 0 | 11 |
+| last720d | 2024-11-16 | 1 | 2 | 0 | 4 | 0 | 17 |
 
 ## Improve this data
 
@@ -70,4 +62,4 @@ Install metadata for fm lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:00:45Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:08:25Z._
